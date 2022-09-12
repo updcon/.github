@@ -1,6 +1,7 @@
 = UPD Consulting
 
 == Services
+
 === Consulting
 
 As experts in our field, we’re happy to provide consulting services to support our clients. 
@@ -16,3 +17,15 @@ We're also happy to assist in business transformation and digitisation.
 We design and implement modern and user-friendly applications and software systems, 
 cloud-based applications and scalable data-platforms. 
 We can also provide specialists to share their expertise, and support our clients’ development teams.
+
+== Repositories
+
+=== Private
+
+The private repositories on GitHub are the convenient way to get sources on-demand by subscription. 
+The subscription is also on GitHub so getting a sources or assistance is quick and easy either.
+
+==== Clojure
+
+. com.dkdhub/libmisc-clj -- DKD miscellaneous for Clojure development
+. com.dkdhub/qtasks -- DKD Quartz Library for Clojure
