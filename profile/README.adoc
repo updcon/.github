@@ -28,8 +28,8 @@ We can also provide specialists to share their expertise, and support our client
 
 === Private
 
-The private repositories on GitHub are the convenient way to get sources on-demand by subscription. 
-The subscription is also on GitHub so getting a sources or assistance is quick and easy either.
+The private repositories on GitHub are a convenient way to get sources on-demand by subscription. 
+The subscription is also on GitHub so getting a sources or assistance is quick and easy too.
 
 ==== Clojure
 
