@@ -1,0 +1,18 @@
+= UPD Consulting
+
+== Services
+=== Consulting
+
+As experts in our field, we’re happy to provide consulting services to support our clients. 
+We offer consulting for software architecture 
+(including enterprise, technology, data, information, integration, logistics and finances), 
+as well as for UX and data store and data processing. 
+We lead developers and engineers, curate a whole projects and do an auditing tasks.
+
+We're also happy to assist in business transformation and digitisation.
+
+=== Software Development
+
+We design and implement modern and user-friendly applications and software systems, 
+cloud-based applications and scalable data-platforms. 
+We can also provide specialists to share their expertise, and support our clients’ development teams.
