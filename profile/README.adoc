@@ -1,5 +1,11 @@
 = UPD Consulting
 
+We are consultancy and development company, and are big believers of "Applied AI" and of "Cognitive computing".
+
+We build distributed systems behind High-Performance, Cloud, Edge and Fog Computing flavours with "Strong" and "Self organizing" system paradigms in our minds.
+
+And, sure, we support opensource. 
+
 == Services
 
 === Consulting
