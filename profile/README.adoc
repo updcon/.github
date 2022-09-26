@@ -35,3 +35,5 @@ The subscription is also on GitHub so getting a sources or assistance is quick a
 
 . com.dkdhub/libmisc-clj -- DKD miscellaneous for Clojure development
 . com.dkdhub/qtasks -- DKD Quartz Library for Clojure
+. com.dkdhub/hz-clj -- DKD Clojure driver for Hazelcast 3.12.z and HazelcastJet 3.2.x
+. com.dkdhub/libhz-redis -- Redis persitence bindings for hz-clj (of HZ v3.x.x)
